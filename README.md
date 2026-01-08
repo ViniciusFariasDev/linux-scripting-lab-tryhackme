@@ -10,7 +10,7 @@ skills in a simulated investigation environment.
 
 ## 📸 Lab Screenshot
 
-![Lab Screenshot](screenshots/lab-completed.png)
+![Lab Screenshot](screenshots/bash-linux.png)
 
 ---
 
